@@ -97,8 +97,6 @@ function draw() {
  
 if (ed === "end") {
 
-  backgroundImage
-
   scene.velocityX = 0;
 
   bow.destroyEach();
